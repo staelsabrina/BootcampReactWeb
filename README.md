@@ -4,6 +4,8 @@
 
 React.js é uma das principais bibliotecas da linguagem JavaScript utilizada por desenvolvedores do mundo inteiro e grandes empresas como Netflix, Instagram e Airbnb. Nesse bootcamp você aprenderá os conceitos e práticas do React.js essenciais para o mercado de trabalho.
 
+<a href="#">Certificado de Conclusão do Bootcamp</a>
+
 
 ---
 
@@ -152,35 +154,98 @@ Requisitando dados de uma API de criptomoedas - 2h
 
 Aprenda a fazer uma requisição de uma API de Criptomoeda com JavaScript. Para você que está começando a carreira de TI e gostaria de manipular APIs além de exibir essas informações em uma página web responsiva.
 
+<a href="https://certificates.digitalinnovation.one/A252C295">Certificado</a>
+
+---
+
+Introdução ao ReactJS - 3h
+
+Aprenda os conceitos sobre ReactJS, ferramenta usada para a criação de interfaces para os usuários.
+
+<a href="https://certificates.digitalinnovation.one/05AB4067">Certificado</a>
+
+---
+
+Desafio Busca e Laços de Repetição
+
+Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
+
+---
+
+Desenvolvimento de aplicações para internet com ReactJS - 4h
+
+Você aprenderá conceitos avançados sobre a combinação de Redux com React e sua aplicação.
+
+<a href="https://certificates.digitalinnovation.one/8B51E921">Certificado</a>
+
+---
+
+Criando uma home com Styled Components - 2h
+
+Conheça o conceito de CSS-in-JS ou JSS e aprenda a criar uma home simples no React utilizando o styled components.
+
+<a href="https://certificates.digitalinnovation.one/6CDAF308">Certificado</a>
+
+---
+
+Criando sua biblioteca para React - 1h
+
+No dia a dia utilizamos várias bibliotecas para React ou Javascript com o objetivo de facilitar nosso trabalho. Bibliotecas de componentes, datas, rotas, gerenciamento de estados, entre outras, são comuns na criação de aplicações. Aprenda quais são os processos e as ferramentas necessárias que facilitarão no desenvolvimento da sua primeira biblioteca para React.
+
+<a href="https://certificates.digitalinnovation.one/1042EF48">Certificado</a>
+
+---
+
+Como gerenciar o estado das aplicações com Redux - 2h
+
+Aprenda sobre a arquitetura Redux e como ela pode facilitar o gerenciamento dos estados da sua aplicação em React.
+
+<a href="https://certificates.digitalinnovation.one/1C04F58F">Certificado</a>
+
+---
+
+Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo - 4h
+
+Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo criando uma "Progressive Web Application (PWA)" utilizando React e aprenda como criar uma aplicação para ser executada no browser e funcionar como aplicativo contendo algumas funcionalidades de um aplicativo nativo. Tudo rápido e fácil, sem precisar subir para a Play Store ou App Store.
+
 <a href="">Certificado</a>
 
 ---
 
-<a href="">Certificado</a>
+Projetos ágeis com SCRUM - 2h
+
+SCRUM é um framework utilizado no gerenciamento ágil de projetos de software. Esse curso ensinará os fundamentos e práticas da metodologia.
+
+<a href="https://certificates.digitalinnovation.one/21DE5562">Certificado</a>
 
 ---
 
+Desafio Solução de Problemas Cotidianos
+
+Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
+
+---
+
+Práticas avançadas em projetos com ReactJS - 4h
+
+Conclua o seu conhecimento de React JS com técnicas avançadas para desenvolver e otimizar o tempo dos projetos. Seja um desenvolvedor front-end de alta performance!
+
+<a href="https://certificates.digitalinnovation.one/70C010F2">Certificado</a>
+
+---
+
+Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google - 10h
+
+Nesse projeto vamos construir junto com o especialista um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Vamos desenvolver esse buscador usando React.JS e API do Google, iniciando do zero à nuvem.
+
 <a href="">Certificado</a>
 
 
+---
 
+Desafio Resolvendo Algoritmos
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
 
 
