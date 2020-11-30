@@ -4,7 +4,7 @@
 
 React.js é uma das principais bibliotecas da linguagem JavaScript utilizada por desenvolvedores do mundo inteiro e grandes empresas como Netflix, Instagram e Airbnb. Nesse bootcamp você aprenderá os conceitos e práticas do React.js essenciais para o mercado de trabalho.
 
-<a href="#">Certificado de Conclusão do Bootcamp</a>
+<a href="https://certificates.digitalinnovation.one/09F36D0A">Certificado de Conclusão do Bootcamp</a>
 
 
 ---
